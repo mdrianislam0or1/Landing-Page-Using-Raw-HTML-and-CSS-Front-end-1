@@ -1,0 +1,444 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+
+    font-family: 'Roboto Slab', serif;
+
+}
+h1,h2,h3,h4,h5{
+    font-family: 'Krona One', sans-serif;
+}
+header{
+    width: 1140px;
+    margin: auto;
+    overflow: hidden;
+}
+.navbar{
+width: 100%;
+    float: left;
+    overflow: hidden;
+   padding-left: 15px;
+    padding-right: 15px;
+}
+.logo{
+    width: 300px;
+ float: left;
+    padding: 30px 0;
+}
+.menubar{
+    width: 500px;
+    float: left;
+    display: block;
+    padding: 40px;
+    padding-left: 15px;
+    padding-right: 15px;
+    
+}
+.menubar li{
+    display: block;
+    float: left;
+    padding-left: 20px;
+}
+.menubar li a{
+    transition: 0.6s ease-in-out;
+}
+.menubar li a:hover{
+    color: #ff5200;
+    text-decoration: underline;
+}
+.navbtn{
+    padding: 30px;
+    
+}
+.navbtn button{
+    padding: 10px 30px;
+    border: none;
+    border-radius: 40px;
+    color: white;
+    background: #ff5200;
+}
+.logo span{
+color: #ff5200;
+}
+.container{
+    width: 1140px;
+    overflow: hidden;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin: auto;
+}
+section{
+    padding-top: 70px;
+    overflow: hidden;
+}
+.headerls{
+width: 600px;
+ float: left;   
+}
+.headline span{
+    color: #ff5200;
+}
+.headline h1{
+    font-size: 50px;
+    padding-bottom: 40px;
+}
+.headerdes p{
+    padding-bottom: 20px;
+    line-height:2;
+}
+.headerbtn button{
+    color: white;
+    border: none;
+    border-radius: 50px;
+    padding: 10px 40px;
+    background: #ff5200;
+}
+
+.headerimg{
+    width: 500px;
+    height: 500px;
+    float: left;
+    overflow: hidden;
+    margin-left: 40px;
+}
+.headerimg img{
+    width: 100%;
+    overflow: hidden;
+}
+
+.allthngs{
+    text-align: center;
+    overflow: hidden;
+}
+.da{
+    background: black;
+    color: wheat;
+}
+.moon h3{
+    margin-top: 70px;
+    margin-bottom: 10px;
+   
+}
+.plugin h1{
+    font-size: 50px;
+    padding: 10px 10px;
+}
+.plugin span {
+    color: #ff5200;
+}
+.dp p{
+    line-height: 2
+}
+.darkbtn button{
+    padding: 10px 40px;
+    border: 2px solid #ff5200;
+    border-radius: 40px;
+    color: white;
+    background: black;
+    margin-top: 20px;
+    margin-bottom: 150px;
+}
+.threeboxwapper {
+text-align: center;
+    overflow: hidden;
+}
+.oneblackbox{
+    width: 300px;
+    border: 1px solid #ff5200;
+    text-align: center;
+    background:black;
+    color: wheat;
+    float: left;
+    overflow: hidden;
+    margin-left: 70px;
+    
+}
+.oneblackbox i{
+padding: 40px
+}
+.oneblackbox h3{
+    padding-bottom: 50px;
+}
+#boxx{
+position: relative;
+margin-top: -160px;
+}
+.secondpera{
+    text-align: center;
+    padding: 50px 50px;
+    
+}
+
+.secondimgdetails{
+    
+    width: 250px;
+    overflow: hidden;
+    border: 2px solid white;
+    box-shadow: 4px 4px 4px #ddd;
+    padding-top: 40px;
+    padding: 40px 50px;
+   
+}
+.secondimg{
+    display: flex;
+    justify-content:center;
+}
+.secondimgdetails img{
+    width: 100%;
+}
+.secondimgdetails:last-child{
+   margin-left: 20px;
+    background: rgb(152, 152, 255);
+}
+.secondimgdetails:first-child{
+    margin-right: 20px;
+    background: rgb(255, 196, 119);
+}
+.itemshead{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+.itemshead h1{
+    font-size: 30px;
+}
+.itemshead span{
+    color: #ff5200;
+}
+.threeitems{
+    overflow: hidden;
+}
+.onenmberbox{
+    overflow: hidden;
+    width: 350px;
+   
+    float: left;
+    margin-left: 20px;
+}
+.itemicon{
+    width: 40px;
+    float: left;
+    padding-top: 70px;padding-left: 30px;
+}
+.itemtitle{
+    width: 230px;
+    float: left;
+    padding-left: 40px;
+}
+.itemicon i{
+    background: rgb(139, 243, 139);
+    padding: 20px;
+    color: white;
+    border-radius: 40px;
+}
+.itemtitle p{
+    font-size: 15px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.itemtitle h3{
+    margin-top: 15px;
+}
+.threeitems{
+    margin-bottom: 20px;
+}
+.color{
+background: rgb(255, 247, 227);
+}
+.profileone{
+  width: 400px;
+    overflow: hidden;
+    border: 1px solid #ddd;
+    background: white;
+    padding-left: 20px;
+    float: left;
+    margin-left: 30px;
+    
+    
+    
+}
+.profileone img{
+    width:60px;
+    height: 60px;
+    padding: 20px;
+    
+}
+.profileone img{
+    border-radius: 100px;
+}
+.profileone h3{
+ 
+}
+.profileone p{
+  
+    margin-top: 10px;
+    line-height: 2
+}
+.profileone i{
+    color: #ff5200;
+    padding-top: 10px;
+    margin-bottom: 30px;
+}
+.colorheader span{
+    color: #ff5200;
+}
+.colorheader{
+    text-align: center;
+    padding: 40px;
+}
+.profilebox{
+margin-left: 100px;
+    overflow: hidden;
+}
+.threeicon{
+text-align: center;
+margin-top: 40px;
+    margin-bottom: 50px;
+}
+.threeicon i{
+    color: #ff5200;
+}
+.fourthicon{
+    text-align: center;
+    
+}
+.fourthicon i{
+    font-size: 60px;
+    color: #ff5200;
+    padding: 10px;
+}
+
+.fourthheader{
+text-align: center;
+    margin-bottom: 20px;
+}
+.fourthheader span{
+    color: #ff5200;
+}
+.fourthform{
+    text-align: center;
+    padding: 20px;
+    position: relative;
+    
+}
+.fourthform input:first-child{
+    padding: 15px 170px;
+  border-bottom-left-radius: 50px;
+    border-top-left-radius:50px;
+    
+}
+#subsubmit{
+padding: 17px;
+    background: #ff5200;
+    border: none;
+    width: 120px;
+    border-radius: 50px;
+    position: absolute;
+    left: 740px;
+    bottom: 1.5em;
+    width: 15%;
+    color: white;
+    letter-spacing: 1.3;
+}
+.lastfist{
+background: rgb(26, 19, 59)
+}
+.firstpart{
+    width: 500px;
+    overflow: hidden;
+    margin-top: 60px;
+    float:left;
+}
+.lastoneinfo{
+    width: 220px;
+    float: left;
+    color: white;
+}
+.lasttwoinfo{
+width: 220px;
+float: left;
+color: white;
+margin-left: 40px;
+}
+.lastoneinfo h1{
+    margin-bottom: 40px;
+    font-size: 35px;
+}
+.lastoneinfo h1 span{
+color: #ff5200;
+}
+.lastoneinfo p{
+    line-height: 2;
+    font-size:15px;
+    margin-bottom: 20px;
+}
+.lastoneinfo i{
+    font-size: 25px;
+    padding: 5px 6px;;
+    background: white;
+    color: rgb(26, 19, 59);
+    border-radius: 50px;
+    margin-bottom: 100px;
+}
+.lasttwoinfo h3{
+margin-bottom: 60px;
+    margin-top: 14px;
+}
+.lasttwoinfo p{
+    font-size: 14px;
+    line-height: 2;
+}
+.lspart{
+    float: left;
+    overflow: hidden;
+    width:500px;
+    color:white;
+    margin-top: 60px;
+}
+.lsone h3{
+    margin-top: 10px;
+    margin-bottom: 70px;
+}
+.lsone p{
+font-size: 15px;
+line-height: 2
+}
+.lsone{
+float: left;
+overflow: hidden;}
+.lsimginfo{
+    float: left;
+    overflow: hidden;
+}
+.infoimg{
+    width: 60px;
+    overflow:hidden;
+    float: left;
+}
+.infoimg img{
+width: 50px;
+height: 50px
+}
+.lspara{
+    float: left;
+}
+.lsimginfo{
+margin-left: 40px;
+
+}
+.lsimginfo{
+    margin-top: 10px;
+}
+.lsimginfo h3{
+margin-bottom: 70px;
+}
+.firstpart{
+    margin-left: 100px;
+}
+.over{
+background: #ff5200;
+color: wheat;
+text-align: center;
+    padding: 10px 0px;
+}
