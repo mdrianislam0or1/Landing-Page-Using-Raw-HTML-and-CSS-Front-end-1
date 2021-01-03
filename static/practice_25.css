@@ -46,6 +46,9 @@ width: 100%;
 .menubar li a:hover{
     color: #ff5200;
     font-weight: bold;
+    background-color: #ddd;
+    padding:1px;
+    border-radius: 5px;
 }
 .navbtn{
     padding: 30px;
