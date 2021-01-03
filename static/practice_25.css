@@ -45,7 +45,7 @@ width: 100%;
 }
 .menubar li a:hover{
     color: #ff5200;
-    text-decoration: underline;
+    font-weight: bold;
 }
 .navbtn{
     padding: 30px;
